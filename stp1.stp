@@ -1,0 +1,11 @@
+<session jtag_chain="USB-Blaster [USB-0]" jtag_device="@1: EP2C70 (0x020B60DD)" sof_file="" top_level_entity="DE2_TOP">
+  <display_tree gui_logging_enabled="0">
+  </display_tree>
+  <mnemonics/>
+  <static_plugin_mnemonics/>
+  <global_info>
+    <single attribute="active instance" value="0"/>
+    <single attribute="lock mode" value="36110"/>
+    <multi attribute="window position" size="9" value="1424,689,398,124,356,50,124,0,51"/>
+  </global_info>
+</session>
